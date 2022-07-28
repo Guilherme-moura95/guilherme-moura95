@@ -5,7 +5,7 @@
 
 **I'm a Back-end Developer with a passion for programming, Always looking for new ideas and ways to improve and be able to help others with my work.**
 
-- Skills: Python, Django, Flask.
+- Skills: Python,Golang Django, Flask.
 - Tools: Pycharm, Docker, Kubernetes, Git.
 - SO: Linux.
 - Reach me: junior.moura19@hotmail.com
