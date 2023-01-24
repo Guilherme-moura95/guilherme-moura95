@@ -9,4 +9,4 @@
 - Tools: Goland, Vscode, Pycharm, Docker, Kubernetes, Git.
 - SO: Linux.
 - Reach me: junior.moura19@hotmail.com
-- https://www.linkedin.com/in/moura-dev/
+- https://www.linkedin.com/in/moura-jr95/
