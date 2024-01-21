@@ -8,7 +8,7 @@
 Top projects i made
 
 - www.cryptotracker.com.br
-- www.midasgestor.com.br
+- midasgestor.com.br
 
 
 - Skills: Golang, Python and Nodejs
