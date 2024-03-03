@@ -6,14 +6,13 @@
 **I'm a Back-end Developer with a passion for programming, Always looking for new ideas and ways to improve and be able to help others with my work.**
 
 ### Connect with me:
- <a href="https://github.com/moura95" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github-moura95" width="40" height="40"/> </a> 
-<a href="https://linkedin.com/guilherme-moura95" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="github" width="40" height="40"/> </a> 
+ <a href="https://github.com/moura95" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github-moura95" width="30" height="30"/> </a> 
+<a href="https://linkedin.com/guilherme-moura95" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="github" width="30" height="30"/> </a> 
 <br>
 <br>
 Top projects i made
 
 - www.cryptotracker.com.br
-- www.midasgestor.com.br
   
 ## Tools
 
