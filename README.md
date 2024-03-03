@@ -1,17 +1,16 @@
 # Hi, I'm Guilherme Moura
 
-**I'm a Back-end Developer with a passion for programming, Always looking for new ideas and ways to improve and be able to help others with my work.**
 
 ## About Me
 
-[![](https://visitor-badge.laobi.icu/badge?page_id=moura95.moura95)](https://visitor-badge.laobi.icu/badge?page_id=moura95.moura95)
-[![Mail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:eryajf@163.com)](mailto:junior.moura19@hotmail.com)
-[![](https://img.shields.io/github/stars/moura95?color=fefb7b&logo=Undertale)](https://github-readme-stats.vercel.app/api?username=moura95&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)
-[![](https://img.shields.io/github/followers/moura95?color=27da6b&logo=Handshake)](https://github.com/moura95?tab=followers)
+**I'm a Back-end Developer with a passion for programming, Always looking for new ideas and ways to improve and be able to help others with my work.**
 
 ## Tools
 
-<a href="https://github.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a> <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a> <a href="https://obsidian.md/" target="_blank"> <img src="https://obsidian.md/favicon.ico" alt="Obsidian" width="40" height="40"/> </a> <a href="https://www.centos.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg" alt="centos" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="pycharm" width="40" height="40"/> </a>
+<a href="https://github.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a> 
+<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a> 
+<a src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> </a>                 <a  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="pycharm" width="40" height="40"/> </a>    
+<a src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="pycharm" width="40" height="40"/> </a>
 
 ## Technology Stack
 
