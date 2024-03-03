@@ -6,9 +6,8 @@
 **I'm a Back-end Developer with a passion for programming, Always looking for new ideas and ways to improve and be able to help others with my work.**
 
 ### Connect with me:
- 
-[<img src="https://img.shields.io/badge/Taucher2003-181717.svg?&style=for-the-badge&logo=github&logoColor=white"/>][github]
-[<img src="https://img.shields.io/badge/Taucher2003-FC6D26.svg?&style=for-the-badge&logo=gitlab&logoColor=white"/>][linkedin]
+ <a href="https://github.com/moura95" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github-moura95" width="40" height="40"/> </a> 
+<a href="https://linkedin.com/guilherme-moura95" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="github" width="40" height="40"/> </a> 
 <br>
 <br>
 Top projects i made
