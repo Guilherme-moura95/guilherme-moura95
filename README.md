@@ -5,16 +5,17 @@
 
 **I'm a Back-end Developer with a passion for programming, Always looking for new ideas and ways to improve and be able to help others with my work.**
 
+### Connect with me:
+ 
+[<img src="https://img.shields.io/badge/Taucher2003-181717.svg?&style=for-the-badge&logo=github&logoColor=white"/>][github]
+[<img src="https://img.shields.io/badge/Taucher2003-FC6D26.svg?&style=for-the-badge&logo=gitlab&logoColor=white"/>][linkedin]
+<br>
+<br>
 Top projects i made
 
 - www.cryptotracker.com.br
 - www.midasgestor.com.br
   
-## Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=moura95&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=true" alt="moura95" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moura95&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="moura95" />
-
 ## Tools
 
 <a href="https://github.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a> 
