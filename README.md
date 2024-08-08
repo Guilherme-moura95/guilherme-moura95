@@ -12,10 +12,6 @@
 <a href="https://linkedin.com/in/guilherme-moura95" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="github" width="30" height="30"/> </a> 
 <br>
 <br>
-Top projects i made
-
-- www.midasgestor.com.br
-- www.cryptotracker.com.br
   
 ## Tools
 
